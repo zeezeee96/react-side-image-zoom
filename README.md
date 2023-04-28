@@ -29,7 +29,7 @@ export default App;
 ```
 
 ## Demo
-[Demo](https://linktodocumentation)
+[Demo](https://react-side-image-zoom.vercel.app/)
 
 ## props 
 
